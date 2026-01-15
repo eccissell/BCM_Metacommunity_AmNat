@@ -49,7 +49,6 @@ Raw data from video-based observations of reef fish interactions with cyanobacte
 - **sec** — Seconds component of observation duration
 - **duration** — Total observation duration (in seconds)
 - **bicolor_ind** — Number of Stegastes partitus individuals observed near/associated with the mat during the observation
-- **seaslug_ind** — Number of Elysia crispata individuals observed directly on the focal mat during the observation
 - **bicolor** — Total bite count for Stegastes partitus [Bicolor Damselfish] (# of bites)
 - **stripe** — Total bite count for Striped parrotfish (Scarus iseri) (# of bites)
 - **tp_stripe** — Striped parrotfish (Scarus iseri), terminal phase (TP) bite count (# of bites)
