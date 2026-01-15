@@ -41,63 +41,63 @@ Individual cyanobacterial mat tracking data from the in situ coring (simulated d
 Raw data from video-based observations of reef fish interactions with cyanobacterial mats, used to quantify predation rates from reef fishes on cyanobacterial mats.
 
 **Variables:**
-mat — Unique identifier for the focal mat community observed in the video
-site — Reef site name where the mat was observed
-date — Observation date
-depth — Depth of the focal mat (m)
-min — Minutes component of observation duration
-sec — Seconds component of observation duration
-duration — Total observation duration (in seconds)
-bicolor_ind — Number of Stegastes partitus individuals observed near/associated with the mat during the observation
-seaslug_ind — Number of Elysia crispata individuals observed directly on the focal mat during the observation
-bicolor — Total bite count for Stegastes partitus [Bicolor Damselfish] (# of bites)
-stripe — Total bite count for Striped parrotfish (Scarus iseri) (# of bites)
-tp_stripe — Striped parrotfish (Scarus iseri), terminal phase (TP) bite count (# of bites)
-ip_stripe — Striped parrotfish (Scarus iseri), initial phase (IP) bite count (# of bites)
-princess — Total bite count for Princess parrotfish (Scarus taeniopterus), all phases combined (# of bites)
-tp_princess — Princess parrotfish (Scarus taeniopterus), terminal phase (TP) bite count (# of bites)
-ip_princess — Princess parrotfish (Scarus taeniopterus), initial phase (IP) bite count (# of bites)
-redband — Total bite count for Redband parrotfish (Sparisoma aurofrenatum), all phases combined (# of bites)
-tp_redband — Redband parrotfish (Sparisoma aurofrenatum), terminal phase (TP) bite count (# of bites)
-ip_redband — Redband parrotfish (Sparisoma aurofrenatum), initial phase (IP) bite count (# of bites)
-queen — Total bite count for Queen angelfish (Holacanthus ciliaris) (# of bites)
-surgeon — Total bite count for surgeonfishes (Acanthuridae) (# of bites)
-tang — Total bite count for tangs (Acanthurus spp.) (# of bites)
-rock — Total bite count for Rock beauty angelfish (Holacanthus tricolor) (# of bites)
-french — Total bite count for French angelfish (Pomacanthus paru) (# of bites)
-yellow_goat — Total foraging disturbance count for Yellow goatfish (Mulloidichthys martinicus), treated as bites in analyses (# of disturbances)
-spotted_goat — Total foraging disturbance count for Spotted goatfish (Pseudupeneus maculatus), treated as bites in analyses (# of disturbances)
-r_bi — Bite rate for Stegastes partitus [Bicolor damselfish] (bites·min⁻¹)
-r_yel — Foraging disturbance rate for Mulloidichthys martinicus [Yellow goatfish] (disturbances·min⁻¹)
-r_tstripe — Bite rate for terminal-phase Scarus iseri [Striped parrotfish] (bites·min⁻¹)
-r_iprince — Bite rate for initial-phase Scarus taeniopterus [Princess parrotfish] (bites·min⁻¹)
-r_qu — Bite rate for Holacanthus ciliaris [Queen angelfish] (bites·min⁻¹)
-r_surgeon — Bite rate for surgeonfishes (Acanthuridae) (bites·min⁻¹)
-r_tang — Bite rate for tangs (Acanthurus spp.) (bites·min⁻¹)
-r_spot — Foraging disturbance rate for Pseudupeneus maculatus [Spotted goatfish] (disturbances·min⁻¹)
-r_ired — Bite rate for initial-phase Sparisoma aurofrenatum [Redband parrotfish] (bites·min⁻¹)
-r_rock — Bite rate for Holacanthus tricolor [Rock beauty angelfish] (bites·min⁻¹)
-r_french — Bite rate for Pomacanthus paru [French angelfish] (bites·min⁻¹)
-r_tprince — Bite rate for terminal-phase Scarus taeniopterus [Princess parrotfish] (bites·min⁻¹)
-r_tred — Bite rate for terminal-phase Sparisoma aurofrenatum [Redband parrotfish] (bites·min⁻¹)
+- **mat** — Unique identifier for the focal mat community observed in the video
+- **site** — Reef site name where the mat was observed
+- **date** — Observation date
+- **depth** — Depth of the focal mat (m)
+- **min** — Minutes component of observation duration
+- **sec** — Seconds component of observation duration
+- **duration** — Total observation duration (in seconds)
+- **bicolor_ind** — Number of Stegastes partitus individuals observed near/associated with the mat during the observation
+- **seaslug_ind** — Number of Elysia crispata individuals observed directly on the focal mat during the observation
+- **bicolor** — Total bite count for Stegastes partitus [Bicolor Damselfish] (# of bites)
+- **stripe** — Total bite count for Striped parrotfish (Scarus iseri) (# of bites)
+- **tp_stripe** — Striped parrotfish (Scarus iseri), terminal phase (TP) bite count (# of bites)
+- **ip_stripe** — Striped parrotfish (Scarus iseri), initial phase (IP) bite count (# of bites)
+- **princess** — Total bite count for Princess parrotfish (Scarus taeniopterus), all phases combined (# of bites)
+- **tp_princess** — Princess parrotfish (Scarus taeniopterus), terminal phase (TP) bite count (# of bites)
+- **ip_princess** — Princess parrotfish (Scarus taeniopterus), initial phase (IP) bite count (# of bites)
+- **redband** — Total bite count for Redband parrotfish (Sparisoma aurofrenatum), all phases combined (# of bites)
+- **tp_redband** — Redband parrotfish (Sparisoma aurofrenatum), terminal phase (TP) bite count (# of bites)
+- **ip_redband** — Redband parrotfish (Sparisoma aurofrenatum), initial phase (IP) bite count (# of bites)
+- **queen** — Total bite count for Queen angelfish (Holacanthus ciliaris) (# of bites)
+- **surgeon** — Total bite count for surgeonfishes (Acanthuridae) (# of bites)
+- **tang** — Total bite count for tangs (Acanthurus spp.) (# of bites)
+- **rock** — Total bite count for Rock beauty angelfish (Holacanthus tricolor) (# of bites)
+- **french** — Total bite count for French angelfish (Pomacanthus paru) (# of bites)
+- **yellow_goat** — Total foraging disturbance count for Yellow goatfish (Mulloidichthys martinicus), treated as bites in analyses (# of disturbances)
+- **spotted_goat** — Total foraging disturbance count for Spotted goatfish (Pseudupeneus maculatus), treated as bites in analyses (# of disturbances)
+- **r_bi** — Bite rate for Stegastes partitus [Bicolor damselfish] (bites·min⁻¹)
+- **r_yel** — Foraging disturbance rate for Mulloidichthys martinicus [Yellow goatfish] (disturbances·min⁻¹)
+- **r_tstripe** — Bite rate for terminal-phase Scarus iseri [Striped parrotfish] (bites·min⁻¹)
+- **r_iprince** — Bite rate for initial-phase Scarus taeniopterus [Princess parrotfish] (bites·min⁻¹)
+- **r_qu** — Bite rate for Holacanthus ciliaris [Queen angelfish] (bites·min⁻¹)
+- **r_surgeon** — Bite rate for surgeonfishes (Acanthuridae) (bites·min⁻¹)
+- **r_tang** — Bite rate for tangs (Acanthurus spp.) (bites·min⁻¹)
+- **r_spot** — Foraging disturbance rate for Pseudupeneus maculatus [Spotted goatfish] (disturbances·min⁻¹)
+- **r_ired** — Bite rate for initial-phase Sparisoma aurofrenatum [Redband parrotfish] (bites·min⁻¹)
+- **r_rock** — Bite rate for Holacanthus tricolor [Rock beauty angelfish] (bites·min⁻¹)
+- **r_french** — Bite rate for Pomacanthus paru [French angelfish] (bites·min⁻¹)
+- **r_tprince** — Bite rate for terminal-phase Scarus taeniopterus [Princess parrotfish] (bites·min⁻¹)
+- **r_tred** — Bite rate for terminal-phase Sparisoma aurofrenatum [Redband parrotfish] (bites·min⁻¹)
 
 ## Combined_Master_Script.R
-Description:
+**Description:**
 R script used to conduct all analyses included in the manuscript.
 
-R version: 4.5.2
+- **R version:** 4.5.2
 
-Attached base packages:
-grid
-stats
-graphics
-grDevices
-utils
-datasets
-methods
-base
+**Attached base packages:**
+- grid
+- stats
+- graphics
+- grDevices
+- utils
+- datasets
+- base
+- methods
 
-Included packages:
+**Included packages:**
 car 3.1-3
 carData 3.0-5
 mgcViz 0.2.1
