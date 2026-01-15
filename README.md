@@ -14,12 +14,12 @@ Author 1
 
 # INCLUDED FILES &amp; FOLDERS  
 ## metacommunity_BCM_benthic_df.csv
-Description:
+**Description:**
 Data from photoquadrat-based estimates of benthic cyanobacterial mat (BCM) cover used to quantify metacommunity-scale dynamics.
 
-Variables:
-Name — Unique identifier for each photoquadrat
-Date — Sampling date of the photoquadrat
+**Variables:**
+- **Name** — Unique identifier for each photoquadrat
+- **Date** — Sampling date of the photoquadrat
 Depth — Depth of the photoquadrat (in m)
 BCM — Proportional benthic cover of cyanobacterial mats in that photoquadrat (ranging from a value of 0–1), estimated from 50-point CoralNet annotations
 
