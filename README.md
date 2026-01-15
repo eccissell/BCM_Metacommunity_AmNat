@@ -1,2 +1,7 @@
 # BCM_Metacommunity_AmNat
-Repository containing the Datafiles and Code for 'Cissell &amp; McCoy. Heterogeneous predation, community asynchrony, and metacommunity stability in cyanobacterial mats'
+
+#CITATION#
+AUTHOR 1 &amp; AUTHOR 2. (IN REVIEW) Heterogeneous predation, community asynchrony, and metacommunity stability in cyanobacterial mats
+
+#AUTHOR NAMES#
+Redacted for 
