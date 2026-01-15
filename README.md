@@ -20,27 +20,27 @@ Data from photoquadrat-based estimates of benthic cyanobacterial mat (BCM) cover
 **Variables:**
 - **Name** — Unique identifier for each photoquadrat
 - **Date** — Sampling date of the photoquadrat
-Depth — Depth of the photoquadrat (in m)
-BCM — Proportional benthic cover of cyanobacterial mats in that photoquadrat (ranging from a value of 0–1), estimated from 50-point CoralNet annotations
+- **Depth** — Depth of the photoquadrat (in m)
+- **BCM** — Proportional benthic cover of cyanobacterial mats in that photoquadrat (ranging from a value of 0–1), estimated from 50-point CoralNet annotations
 
 ## coring_experiment_df.csv
-Description:
+**Description:**
 Individual cyanobacterial mat tracking data from the in situ coring (simulated disturbance) experiment, used to analyze mat survival and persistence.
 
-Variables:
-Treatment — Experimental treatment (W = Unmanipulated; H = Wounded)
-Set — Unique Identifier for each mat
-First_Date — Date monitoring of the mat began
-Last_Date — Date monitoring of the mat ended
-Duration — Number of days the mat was observed
-Died — Binary indicator of mat death during the study 
-Binom — Binary response variable used in GLM analyses (0 = died, 1 = survived)
+**Variables:**
+- **Treatment** — Experimental treatment (W = Unmanipulated; H = Wounded)
+- **Set** — Unique Identifier for each mat
+- **First_Date** — Date monitoring of the mat began
+- **Last_Date** — Date monitoring of the mat ended
+- **Duration** — Number of days the mat was observed
+- **Died** — Binary indicator of mat death during the study 
+- **Binom** — Binary response variable used in GLM analyses (0 = died, 1 = survived)
 
 ## mat_video_follow_counts.csv
-Description:
+**Description:**
 Raw data from video-based observations of reef fish interactions with cyanobacterial mats, used to quantify predation rates from reef fishes on cyanobacterial mats.
 
-Variables:
+**Variables:**
 mat — Unique identifier for the focal mat community observed in the video
 site — Reef site name where the mat was observed
 date — Observation date
