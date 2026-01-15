@@ -25,7 +25,7 @@ Data from photoquadrat-based estimates of benthic cyanobacterial mat (BCM) cover
 
 ## coring_experiment_df.csv
 **Description:**
-Individual cyanobacterial mat tracking data from the in situ coring (simulated disturbance) experiment, used to analyze mat survival and persistence.
+Community-scale (e.g., Individual cyanobacterial mats) tracking data, including from the in situ coring (simulated disturbance) experiment, used to analyze community-scale (mat) survival and persistence.
 
 **Variables:**
 - **Treatment** — Experimental treatment (W = Unmanipulated; H = Wounded)
