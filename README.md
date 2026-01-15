@@ -12,8 +12,23 @@ Benthic cyanobacterial mats are increasing in abundance on coral reefs, yet the 
 # RESPONSIBILITY FOR DATA COLLECTION AND CODE
 Author 1
 
-# INCLUDED FILES
-## 'metacommunity_BCM_benthic_df.csv'
+# INCLUDED FILES &amp; FOLDERS  
+## metacommunity_BCM_benthic_df.csv
+Overview Description
+
+Variables
+
+## coring_experiment_df.csv
+Overview Description
+
+Variables
+
+## fish_bites_df.csv
+Overview Description
+
+Variables
+
+## Combined_Master_Script.R
 
 
 
