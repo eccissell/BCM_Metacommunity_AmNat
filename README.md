@@ -98,50 +98,50 @@ R script used to conduct all analyses included in the manuscript.
 - methods
 
 **Included packages:**
-car 3.1-3
-carData 3.0-5
-mgcViz 0.2.1
-qgam 2.0.0
-mgcv 1.9-3
-plotly 4.11.0
-fishualize 0.2.3
-Rmisc 1.5.1
-lattice 0.22-7
-MuMIn 1.48.11
-DHARMa 0.4.7
-glmmTMB 1.1.14
-lubridate 1.9.4
-forcats 1.0.1
-dplyr 1.1.4
-purrr 1.2.0
-readr 2.1.6
-tidyr 1.3.1
-tibble 3.3.0
-tidyverse 2.0.0
-nlme 3.1-168
-gridExtra 2.3
-lmerTest 3.1-3
-lme4 1.1-38
-Matrix 1.7-4
-ggthemes 5.2.0
-scales 1.4.0
-stringr 1.6.0
-munsell 0.5.1
-stringi 1.8.7
-magrittr 2.0.4
-digest 0.6.39
-Rcpp 1.1.1
-labeling 0.4.3
-gtable 0.3.6
-colorspace 2.1-2
-reshape2 1.4.5
-gtools 3.9.5
-gdata 3.0.1
-readxl 1.4.5
-ggpubr 0.6.2
-ggplot2 4.0.1
-ggbreak 0.1.6
-plyr 1.8.9
+- car 3.1-3
+- carData 3.0-5
+- mgcViz 0.2.1
+- qgam 2.0.0
+- mgcv 1.9-3
+- plotly 4.11.0
+- fishualize 0.2.3
+- Rmisc 1.5.1
+- lattice 0.22-7
+- MuMIn 1.48.11
+- DHARMa 0.4.7
+- glmmTMB 1.1.14
+- lubridate 1.9.4
+- forcats 1.0.1
+- dplyr 1.1.4
+- purrr 1.2.0
+- readr 2.1.6
+- tidyr 1.3.1
+- tibble 3.3.0
+- tidyverse 2.0.0
+- nlme 3.1-168
+- gridExtra 2.3
+- lmerTest 3.1-3
+- lme4 1.1-38
+- Matrix 1.7-4
+- ggthemes 5.2.0
+- scales 1.4.0
+- stringr 1.6.0
+- munsell 0.5.1
+- stringi 1.8.7
+- magrittr 2.0.4
+- digest 0.6.39
+- Rcpp 1.1.1
+- labeling 0.4.3
+- gtable 0.3.6
+- colorspace 2.1-2
+- reshape2 1.4.5
+- gtools 3.9.5
+- gdata 3.0.1
+- readxl 1.4.5
+- ggpubr 0.6.2
+- ggplot2 4.0.1
+- ggbreak 0.1.6
+- plyr 1.8.9
 
 ## Representative Videos and Photos
 
