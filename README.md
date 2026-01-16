@@ -143,5 +143,5 @@ R script used to conduct all analyses included in the manuscript.
 - plyr 1.8.9
 
 ## Representative Videos and Photos
-- **Description:** Included in this directory are raw representative photographs (as .jpg files; file naming convention: "GOPROXXX.JPG") of photoquadrats used for creating "metacommunity_BCM_benthic_df.csv" and raw representative videos (as .mp4 files; file naming convention: "SITE_DATE_MATID.mp4"). Note that video quality was reduced using HandBrake v 1.10.2 to allow for upload. Full datasets are available upon request (contact ethan.c.cissell@gmail.com)
+- **Description:** Included in this directory are raw representative photographs (as .jpg files; file naming convention: "GOPROXXX.JPG") of photoquadrats used for creating "metacommunity_BCM_benthic_df.csv" and raw representative videos (as .mp4 files; file naming convention: "SITE_DATE_MATID.mp4") analyzed to create "mat_video_follow_counts.csv". Note that video quality was reduced using HandBrake v 1.10.2 to allow for upload. Full datasets are available upon request (contact ethan.c.cissell@gmail.com)
 
