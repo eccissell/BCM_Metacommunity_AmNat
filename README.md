@@ -67,7 +67,7 @@ Raw data from video-based observations of reef fish interactions with cyanobacte
 - **yellow_goat** — Total foraging disturbance count for yellow goatfish [*Mulloidichthys martinicus*], treated as bites in analyses (# of disturbances)
 - **spotted_goat** — Total foraging disturbance count for spotted goatfish [*Pseudupeneus maculatus*], treated as bites in analyses (# of disturbances)
 - **r_bi** — Bite rate for bicolor damselfish [*Stegastes partitus*] (bites·min⁻¹)
-- **r_yel** — Foraging disturbance rate for yellow goatfish [*Mulloidichthys martinicus] (disturbances·min⁻¹)
+- **r_yel** — Foraging disturbance rate for yellow goatfish [*Mulloidichthys martinicus*] (disturbances·min⁻¹)
 - **r_tstripe** — Bite rate for terminal-phase striped parrotfish [*Scarus iseri*] (bites·min⁻¹)
 - **r_iprince** — Bite rate for initial-phase Scarus taeniopterus [Princess parrotfish] (bites·min⁻¹)
 - **r_qu** — Bite rate for queen parrotfish [*Scarus vetula*] (bites·min⁻¹)
