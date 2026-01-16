@@ -237,7 +237,7 @@ Anova(trtglm2,type="II",test.statistic = "F")
 
 #Compute Kaplan-Meier survivorship curves to compare persistence across treatments
 #Read in df
-df2 <- read.csv(file.path(data_dir,'coring_experiment_df.csv', stringsAsFactors = FALSE))
+df2 <- read.csv(file.path(data_dir,'coring_experiment_df.csv'))
 
 #Clean up df and prepare 'status' for KM analysis
 df2$Treatment <- factor(df2$Treatment, levels = c("H","W"))
