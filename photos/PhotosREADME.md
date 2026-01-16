@@ -1,1 +1,0 @@
-Representative photoquadrat photographs
