@@ -1,4 +1,4 @@
-# BCM_Metacommunity_AmNat
+# BCM_Metacommunity_AmNat [![DOI](https://zenodo.org/badge/1135282668.svg)](https://doi.org/10.5281/zenodo.18263978)
 
 # CITATION
 AUTHOR 1 &amp; AUTHOR 2. (IN REVIEW) Heterogeneous predation, community asynchrony, and metacommunity stability in cyanobacterial mats
