@@ -4,7 +4,7 @@
 Cissell, E.C. &amp; S.J. McCoy. (2026) Heterogeneous predation, community asynchrony, and metacommunity stability in cyanobacterial mats. The American Naturalist.
 
 # AUTHOR NAMES AND CONTACT DETAILS
-Ethan C. Cissell<sup>1</sup> &amp; Sophie J. McCoy<sup>2</sup>
+**Ethan C. Cissell<sup>1</sup> &amp; Sophie J. McCoy<sup>2</sup>**
 
 <sup>1</sup>Department of Biological Science, Florida State University, Tallahassee, FL
 
