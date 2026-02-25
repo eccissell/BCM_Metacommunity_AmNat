@@ -7,6 +7,7 @@ Cissell, E.C. &amp; S.J. McCoy. (2026) Heterogeneous predation, community asynch
 Ethan C. Cissell<sup>1</sup> &amp; Sophie J. McCoy<sup>2</sup>
 
 <sup>1</sup>Department of Biological Science, Florida State University, Tallahassee, FL
+
 <sup>2</sup>Department of Biology, The University of North Carolina at Chapel Hill, Chapel Hill, NC
 
 Corresponding Author: Ethan C. Cissell | ecc17@fsu.edu
